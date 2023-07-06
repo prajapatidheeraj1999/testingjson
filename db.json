@@ -1,0 +1,60 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Chandra",
+        "age": 25,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-21",
+        "profession": "FSD"
+      },
+      {
+        "id": 2,
+        "name": "Nrupul",
+        "age": 37,
+        "place": "Vijayawada",
+        "batch_name": "WEB-18",
+        "profession": "FSD"
+      },
+      {
+        "name": "dheeraj",
+        "age": 25,
+        "place": "mumbai",
+        "batchname": "WEB-13",
+        "Profession": "FSD",
+        "id": 4
+      },
+      {
+        "name": "pawan prajapaati",
+        "age": 25,
+        "place": "mumbai",
+        "batchname": "WEB-14",
+        "Profession": "Backend",
+        "id": 5
+      },
+      {
+        "name": "Chanda Prajapati",
+        "age": 26,
+        "place": "mumbai",
+        "batch_name": "WEB-14",
+        "profession": "FSD",
+        "id": 6
+      },
+      {
+        "name": "dheeraj_prajapati",
+        "age": 27,
+        "place": "mumbai",
+        "batch_name": "WEB-13",
+        "profession": "FSD",
+        "id": 7
+      },
+      {
+        "name": "dheeraj",
+        "age": 27,
+        "place": "mumbai",
+        "batch_name": "WEB-15",
+        "profession": "Backend",
+        "id": 8
+      }
+    ]
+  }
